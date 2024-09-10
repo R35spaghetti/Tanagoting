@@ -13,5 +13,10 @@ string GenerateRandomLetters(int length)
             .ToArray());
 }
 
+void PrintShitOut()
+{
+    Console.WriteLine("Henlo, wurl");
+}
+
 var x = 5;
 Console.WriteLine(@$"Hello there i got {x} houses");
