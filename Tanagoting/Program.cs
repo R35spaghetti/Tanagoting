@@ -5,6 +5,7 @@ Console.WriteLine("eep");
 string letters = "gevhtriyvg";
 
 Console.WriteLine(GenerateRandomLetters(5));
+PrintShitOut();
 string GenerateRandomLetters(int length)
 {
     return new string(

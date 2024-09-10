@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Stuff\\VisualStudioStuff\\GitRepos\\Grupp5\\Tanagoting\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3642C276-4644-42A8-BD42-D0BE7E186ACE}|Tanagoting\\Tanagoting.csproj|d:\\stuff\\visualstudiostuff\\gitrepos\\grupp5\\tanagoting\\tanagoting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3642C276-4644-42A8-BD42-D0BE7E186ACE}|Tanagoting\\Tanagoting.csproj|solutionrelative:tanagoting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +14,25 @@
       "DocumentGroups": [
         {
           "DockedHeight": 900,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Stuff\\VisualStudioStuff\\GitRepos\\Grupp5\\Tanagoting\\Tanagoting\\Program.cs",
+              "RelativeDocumentMoniker": "Tanagoting\\Program.cs",
+              "ToolTip": "D:\\Stuff\\VisualStudioStuff\\GitRepos\\Grupp5\\Tanagoting\\Tanagoting\\Program.cs",
+              "RelativeToolTip": "Tanagoting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:36:04.711Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
